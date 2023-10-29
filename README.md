@@ -1,1 +1,1 @@
-# otsuApp
+# OtsuApp
